@@ -1,4 +1,4 @@
-// Lecture: Clear Results
+
 
 /*******************************
 *********QUIZ CONTROLLER********
